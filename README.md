@@ -1,5 +1,5 @@
 # Simple Intel Image Classification Implementation Using PyTorch Lightning
-A simple implementation of ResNet50 image classification on Kaggle Intel Image Classification.  
+A simple implementation of ResNet50 image classification on [Kaggle Intel Image Classification](https://www.kaggle.com/datasets/puneet6060/intel-image-classification/data).  
 
 ## Training
 ```bash
